@@ -19,7 +19,7 @@ This repository contains three Python projects that I have developed as part of 
     Run the calculator script:
     python calculator.py
 
-    ![Python Calculator](https://github.com/janhavibandbe/CodSoft-Python/assets/154860008/968e248d-4c62-49d0-87bc-f162f623468b)
+![Python Calculator](https://github.com/janhavibandbe/CodSoft-Python/assets/154860008/2c855de2-30a4-4448-9ce2-d206aab40b26)
 
 ## 2. Random Password Generator (GUI-based)
     Description: A user-friendly random password generator with a graphical interface that allows users to specify password length and character types.
@@ -39,7 +39,7 @@ This repository contains three Python projects that I have developed as part of 
     Run the calculator script:
     python RPG.py
 
-    ![Python Random Password Generator](https://github.com/janhavibandbe/CodSoft-Python/assets/154860008/c4efc64f-9106-4f67-b62b-cf6c22068746)
+![Python Random Password Generator](https://github.com/janhavibandbe/CodSoft-Python/assets/154860008/715f4178-d854-476b-bc67-8ebfedd6d8a3)
 
 ## 3. Rock-Paper-Scissors Game (Console-based)
     Description: A console-based Rock-Paper-Scissors game that allows the user to play against the computer. The game tracks the win count for both the user and the computer and displays the winner at the end.
@@ -60,4 +60,4 @@ This repository contains three Python projects that I have developed as part of 
     Run the calculator script:
     python RPSGame.py
 
-    ![Pyhton Rock-Paper-Scissors Game](https://github.com/janhavibandbe/CodSoft-Python/assets/154860008/137eb2c6-122b-4a07-b742-f7596146440d)
+![Pyhton Rock-Paper-Scissors Game](https://github.com/janhavibandbe/CodSoft-Python/assets/154860008/5774538c-8409-424e-8249-5ddd924ba2a7)
